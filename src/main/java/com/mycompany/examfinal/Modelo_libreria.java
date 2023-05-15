@@ -9,7 +9,7 @@ package com.mycompany.examfinalModelo;
  * @author informatica
  */
 public class Modelo_libreria {
-    private String title;
+        private String title;
     private String author;
     private boolean available;
 
